@@ -98,7 +98,7 @@ To view a page fully formatted per what we see on the `main` branch, replace the
 ## Licenses
 
 - For prose, this project uses the Creative Commons Attribution 4.0 International Public License. For full license text, see [LICENSE](LICENSE).
-- Code samples are available under the MIT License. For full license text, see [LICENSE-CODE](LICENSE-CODE).
+- Code samples are available under the MIT License. For full license text, see [LICENSE-CODE](LICENSE-CODE)
 
 ## Code of Conduct
 
